@@ -3,8 +3,11 @@
 **📌 Project Summary**
 
 **Title:** Delhi Hospital - Work and Leads Workflow Dashboard
+
 **Tools Used:** Power BI | DAX | Data Modeling | Visualization Design
+
 **Domain:** Healthcare
+
 **Objective:** Transform raw hospital data into meaningful insights for operations, billing, and patient care optimization.
 
 **💡 What This Project Demonstrates**
